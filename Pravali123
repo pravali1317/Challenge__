@@ -1,0 +1,12 @@
+Title: Add Carbon Footprint Tracker Component
+
+Description:
+Create a reusable component that allows users to input their daily habits (transport, food, energy, recycling) and calculate their estimated carbon footprint using predefined values.
+
+Tasks:
+- Create input form
+- Add logic for calculations
+- Display results with graphs
+
+Assignee: @teammember1
+Labels: enhancement, frontend
